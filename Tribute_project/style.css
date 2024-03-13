@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+}
+.container{
+     background: #E5E5FD;
+     min-height: 100vh;
+     border: 16px solid #1D1E4C;
+    
+}
+
+.contnent{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.top-secion{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.top-secion h1{
+    font-size: 50px;
+}
+.top-secion h4{
+    font-size: 20px;
+    text-align: end;
+}
+.image-container , img{
+    width: 314px;
+    height: 392px;
+    top: 113px;
+    left: 97px;
+    border-radius: 170px;
+}
+
+.about-section h2{
+    margin-top: 50px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.about-section p{
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+.Personality-section h3 {
+    margin: 50px 0 20px;
+    font-size: 50px;
+}
+
+.Personality-section li {
+   margin-bottom: 10px;
+   line-height: 20px;
+   letter-spacing: 1px;
+   text-align: justify;
+
+}
+
+.wikilink{
+text-align: end;
+margin-top: 30px;
+font-size: 20px;
+}
