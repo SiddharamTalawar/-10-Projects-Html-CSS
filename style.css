@@ -275,3 +275,10 @@ footer {
     height: 50vh;
   }
 }
+
+
+.hero_image img{
+  max-width: 373px;
+  max-height: 589px;
+  border-radius: 30%;
+}
